@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        * New style added to remove the action bar. If you need the action bar; remove below line and remove this comment.
+        -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- This was the default primary dark color.
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        -->
+        <item name="colorPrimaryDark">#2874F0</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
